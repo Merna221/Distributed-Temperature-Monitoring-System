@@ -163,6 +163,3 @@ oauth2client
 4. Add the `README.md` and `.gitignore` (optional).
 5. Push and publish your repository.
 
----
-
-Let me know when you're ready to write the **CV summary** for this project!
